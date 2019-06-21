@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-06-04 13:50:39
-categories: jekyll
+title:  "Welcome to SHINDAWIT!"
+date:   2019-06-21 12:51:00
+categories: DAWIT
 ---
+테스트입니다.
+This is test.
+END OF FILE
+아래의 글은 이 전의 글입니다.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
